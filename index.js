@@ -55,7 +55,7 @@ $(".open").on("click", () => {
 
 $(".close").on("click", () => {
     $(".modal").animate({
-        "top":"-800px"
+        "top":"-700px"
     }, 300)
 })
 
