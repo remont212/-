@@ -4,7 +4,7 @@
 
 }
 .mod{
-display:none;
+margin-top:-100px;
 }
 .items{
     display: flex;
