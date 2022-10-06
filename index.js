@@ -48,14 +48,14 @@ setTimeout(() => {
 });
 
 $(".open").on("click", () => {
-    $(".modal").animate({
-        "top":"100"
+    $(".mod").animate({
+        "top":"100px"
     }, 300)
-})
+});
 
 $(".close").on("click", () => {
-    $(".modal").animate({
-        "top":"-700"
+    $(".mod").animate({
+        "top":"-700px"
     }, 300)
-})
+});
 
