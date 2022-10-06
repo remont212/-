@@ -231,7 +231,9 @@ to{
         padding-top: 20px;
         font-size: 25px;
     }
-
+.img1{
+display:none;
+    }
     .mod ul li{
         list-style: none;
         margin-top: 39px;
