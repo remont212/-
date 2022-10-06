@@ -3,8 +3,10 @@
     margin-top: 100px;
 
 }
+@media(min-width:341px){
 .mod{
-top:-100px;
+margin-top:-100px;
+}
 }
 .items{
     display: flex;
