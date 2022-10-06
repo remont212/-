@@ -20,9 +20,12 @@
     width: 30%;
     height: 400px;
 }
+@media(min-width:341px){
+    .open{
+display: none;
+}
+}
 
-.open{
-display: none;}
 header span{
     padding-top: 20px;
     font-size: 25px;
@@ -295,7 +298,6 @@ to{
         height: 500px;
         width: 100%;
         z-index: 9999;
-          display:block;
         background: #fff;
         border-style: dashed;
      position: absolute;
