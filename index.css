@@ -118,6 +118,16 @@ list-style: none;
     text-align: center;
 
 }
+  .modal{
+        height: 500px;
+        width: 100%;
+        z-index: 9999;
+        background: #fff;
+        border-style: dashed;
+     margin-top: -30px;
+     position: absolute;
+top: -700;     
+    }
 button{
     cursor: pointer;
 }
@@ -222,16 +232,6 @@ to{
     header span{
         padding-top: 20px;
         font-size: 25px;
-    }
-    .modal{
-        height: 500px;
-        width: 100%;
-        z-index: 9999;
-        background: #fff;
-        border-style: dashed;
-     margin-top: -30px;
-     position: absolute;
-top: -700;     
     }
 
     .modal ul li{
