@@ -14,13 +14,8 @@
     width: 30%;
     height: 400px;
 }
-@media(min-width:341px){
-    .open{
-display: none;
-}
-.mod{
-    display:none;
-}
+.open{
+display:none;
 }
 
 header span{
@@ -84,6 +79,9 @@ header{
     height: 80px;
     color: white;
 
+}
+.mod{
+top:-700px;
 }
 body{
     font-family: Garet Heavy;
