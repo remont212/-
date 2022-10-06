@@ -125,9 +125,7 @@ list-style: none;
 button{
     cursor: pointer;
 }
-.modal{
-    display: none;
-}
+
 .start h1{
     text-align: center;
     padding-top: 300px;
@@ -239,9 +237,7 @@ to{
         float:right;
         margin-top: -340px;
     }
-    .open{
-    display:block;
-    }
+    
     *{
         margin: auto;
     padding: 0;
