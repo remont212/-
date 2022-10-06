@@ -17,6 +17,7 @@
     width: 30%;
     height: 400px;
 }
+
 .open{
 display: none;}
 header span{
@@ -230,7 +231,7 @@ to{
         border-style: dashed;
      margin-top: -30px;
      position: absolute;
-top: -700px;     
+top: -700;     
     }
 
     .modal ul li{
