@@ -1,15 +1,9 @@
-.multiple-items{
-    height: 100px;
-    width: 200px;
-    border: 3px solid ;
-}
+
 .doc{
     margin-top: 100px;
 
 }
-.mod{
-    display:none;
-}
+
 .items{
     display: flex;
     flex-wrap: wrap;
@@ -23,6 +17,9 @@
 @media(min-width:341px){
     .open{
 display: none;
+}
+.mod{
+    display:none;
 }
 }
 
@@ -299,7 +296,8 @@ to{
         width: 100%;
         z-index: 9999;
         background: #fff;
-        border-style: dashed;
+ color:#1a1a1a;
+          border-style: dashed;
      position: absolute;
 top: -700px;     
     }
