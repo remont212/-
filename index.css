@@ -187,9 +187,7 @@ margin-left: 650px;
     background-color: red;
     color: white;
 }
-.mod{
-display:none;
-}
+
 @keyframes scales{
 from{
     transform: scale(1.1);
