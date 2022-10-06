@@ -7,6 +7,8 @@
     margin-top: 100px;
 
 }
+.mod{
+    display:none;
 .items{
     display: flex;
     flex-wrap: wrap;
@@ -225,11 +227,11 @@ to{
         font-size: 25px;
     }
 
-    .modal ul li{
+    .mod ul li{
         list-style: none;
         margin-top: 39px;
     }
-    .modal a{
+    .mod a{
         color: #1a1a1a;
     }
     .img1{
@@ -296,6 +298,7 @@ to{
         height: 500px;
         width: 100%;
         z-index: 9999;
+          display:block;
         background: #fff;
         border-style: dashed;
      position: absolute;
