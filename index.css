@@ -295,6 +295,7 @@ to{
         z-index: 9999;
         background: #fff;
  color:#1a1a1a;
+          display:block;
           border-style: dashed;
      position: absolute;
 top: -700px;     
