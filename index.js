@@ -49,13 +49,13 @@ setTimeout(() => {
 
 $(".open").on("click", () => {
     $(".modal").animate({
-        "top":"100px"
+        "top":"100"
     }, 300)
 })
 
 $(".close").on("click", () => {
     $(".modal").animate({
-        "top":"-700px"
+        "top":"-700"
     }, 300)
 })
 
