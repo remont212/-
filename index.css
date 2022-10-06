@@ -9,6 +9,7 @@
 }
 .mod{
     display:none;
+}
 .items{
     display: flex;
     flex-wrap: wrap;
