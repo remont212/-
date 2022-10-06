@@ -30,6 +30,8 @@ header span{
 .img1{
     float:right;
     margin-top: -340px;
+    width:400px;
+    height:300px;
 }
 *{
     margin: 0;
