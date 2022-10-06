@@ -6,6 +6,7 @@
 @media(min-width:341px){
 .mod{
 margin-top:-100px;
+    z-index:0;
 }
 }
 .items{
