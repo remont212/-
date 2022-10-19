@@ -9,6 +9,8 @@ margin-top:-100px;
     z-index:0;
 }
 }
+
+
 .items{
     display: flex;
     flex-wrap: wrap;
@@ -89,7 +91,7 @@ header{
 }
 
 body{
-    font-family: Garet Heavy;
+    font-family: sans-serif;
 }
 .fixed {
     position: sticky;
