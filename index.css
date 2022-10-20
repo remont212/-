@@ -233,7 +233,7 @@ to{
 }
 
 
-@media(max-width: 1020px){
+@media(min-width: 200px)and(max-width: 1020px){
  
     .doc{
         margin-top: 100px;
@@ -290,7 +290,7 @@ display:none;
     z-index: 1000;
     position: relative;
     }
-    .items2{
+    .items{
         display: flex;
     }
     .item{
