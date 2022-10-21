@@ -13,7 +13,7 @@ margin-top:-100px;
 
 .items{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     justify-content: space-between;
 }
 .doc img{
