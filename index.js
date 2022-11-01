@@ -10,17 +10,8 @@ $(document).on("scroll", function(){
 $("#click").on("click", () =>{
     $(".loader0").addClass("loader");
 setTimeout(() => {
-    $(".form").css({
-        "display":"block"
-    })
-    $("#click").css({
-        "display":"none"
-    })
-    $("#click2").css({
-        "display":"block"
-
-    })
-}, 3000)
+    alert("Упс... Конкурс завершился!");
+}, 1000)
 });
 let counter = 3;
 $("#click2").on("click", () =>{
